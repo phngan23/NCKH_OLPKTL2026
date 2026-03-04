@@ -21,9 +21,14 @@ pip install -r requirements.txt
 
 ## Contact and Checkout the Authors:
 Pham Van Huy: phamhuygs20@gmail.com
+
 Nguyen Phuong Ngan:
+
 Do Pham Ha Chi:
+
 Dinh Nguyen Anh Thu:
+
 Nguyen Dang Quynh Tien:
+
 Dr. Vu Thi Bich Ngoc
 
