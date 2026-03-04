@@ -4,8 +4,7 @@
 * Supervisor of the work: Dr. Vu Thi Bich Ngoc
 
 ### Idea
-The idea of planned behavior, a psychological framework, and machine learning have all been combined in this study to produce models that accurately predict consumer purchasing behavior. The inclusion of XAI also explores the most significant influencing factors that drive online purchasing.
-  
+In this study, consumer behavior theory and psychological frameworks are integrated with Machine Learning techniques to develop accurate predictive models of consumers’ impulsive buying behavior in the context of TikTok Shop livestream commerce. Specifically, Structural Equation Modeling (SEM) is employed to validate the theoretical relationships among psychological and behavioral factors, while Machine Learning algorithms are implemented to enhance individual-level predictive performance. In addition, the incorporation of Explainable AI (XAI) enables model interpretability and helps identify the most influential determinants of impulsive buying behavior in the livestream commerce environment.
 ### Dependencies
 
 ### Dataset
